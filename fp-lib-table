@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Low-Profile USB")(type KiCad)(uri "${KIPRJMOD}/Low-Profile USB.pretty")(options "")(descr ""))
+)
